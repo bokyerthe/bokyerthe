@@ -22,11 +22,19 @@
 
 <div align="center">
 
+<img src="assets/terminal_typing.svg" alt="bokyerthe@vps terminal — animated typing" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🌐 CONNECT
 
 [![Website](https://img.shields.io/badge/-bokyerthe.com-00E5FF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://bokyerthe.com)
 [![Telegram](https://img.shields.io/badge/-@mykey1122-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mykey1122)
-[![GitHub](https://img.shields.io/badge/-gandencoli11-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gandencoli11)
+[![GitHub](https://img.shields.io/badge/-bokyerthe-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/bokyerthe)
 [![Email](https://img.shields.io/badge/-admin@bokyerthe.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:admin@bokyerthe.com)
 [![LinkedIn](https://img.shields.io/badge/-Bima%20Prasetio-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bima-prasetio-7baab834a/)
 

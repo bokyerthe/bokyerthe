@@ -112,7 +112,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/akomarev.com?r=bokyerthe&scroll&theme=chartreuse-dark&hide_border=true" alt="bokyerthe visitor badge" />
+<img src="assets/system_online.svg" alt="System Online — pulse signal animation" width="80%" />
 
 ### ⚡ *System Online* ⚡
 

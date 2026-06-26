@@ -1,9 +1,17 @@
 <!-- @bokyerthe | profile README -->
 <div align="center">
 
-<img src="assets/cyberpunk_banner.jpg" alt="Bokyerthe — Cyberpunk Edgerunners" width="100%" />
+<img src="assets/archlinux_chan.jpg" alt="ArchLinux-chan by Ravimo" width="100%" />
 
-# ⚡ BOKYERTHE ⚡
+<sub><i>ArchLinux-chan artwork by <a href="https://krita-artists.org/u/raviolimavioli">Ravimo</a> — Krita-Artists community</i></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐧 BOKYERTHE 🐧
 ### Bima Prasetio — *Infra & Network Engineer*
 
 > *"The street finds its own uses for things."* — Cyberpunk
@@ -83,11 +91,12 @@
 
 ### 🚀 ACTIVE MISSIONS
 
-- 🔧 **VPS @ 10.0.0.3** — CyberPanel + LiteSpeed + mail stack
-- 🌐 **MikroTik CHR @ 10.0.0.1** — Hotspot, PPPoE, NAT, firewall
-- 🎮 **Game Server @ 10.0.0.5** — Multi-port TCP/UDP forwarding
+- 🔧 **VPS Production** — CyberPanel + LiteSpeed + mail stack
+- 🌐 **MikroTik CHR Edge** — Hotspot, PPPoE, NAT, firewall, VPN tunnels
+- 🎮 **Game Server Hosting** — Multi-port TCP/UDP forwarding, anti-cheat friendly
 - 📡 **Multi-zone Cloudflare** — DNS, cache, WAF, Zero Trust
-- 📧 **Mail infra** — Postfix + Dovecot + Postmark transactional
+- 📧 **Mail Infrastructure** — Postfix + Dovecot + Postmark transactional
+- 🏠 **Homelab** — Proxmox virtualization, self-hosted stack, monitoring
 
 ---
 

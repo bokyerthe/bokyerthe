@@ -114,6 +114,4 @@
 
 <img src="assets/system_online.svg" alt="System Online — pulse signal animation" width="80%" />
 
-### ⚡ *System Online* ⚡
-
 </div>

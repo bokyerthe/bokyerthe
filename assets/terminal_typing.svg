@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" width="100%" height="auto" role="img" aria-label="Animated terminal: bokyerthe@vps typing whoami">
+  <defs>
+    <filter id="neon" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="b1"/>
+      <feGaussianBlur stdDeviation="5" in="SourceGraphic" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="term" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0f1c"/>
+      <stop offset="1" stop-color="#03060d"/>
+    </linearGradient>
+    <clipPath id="typeLine1">
+      <rect x="0" y="55" width="0" height="22">
+        <animate attributeName="width" values="0;290;290;0" keyTimes="0;0.35;0.85;1" dur="4.5s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="typeLine2">
+      <rect x="0" y="85" width="0" height="22">
+        <animate attributeName="width" values="0;0;160;160;0" keyTimes="0;0.35;0.55;0.85;1" dur="4.5s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="typeLine3">
+      <rect x="0" y="115" width="0" height="22">
+        <animate attributeName="width" values="0;0;160;160;0" keyTimes="0;0.55;0.75;0.85;1" dur="4.5s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="4" y="4" width="792" height="162" rx="10" fill="url(#term)" stroke="#00e5ff" stroke-width="1.2" filter="url(#neon)"/>
+
+  <circle cx="22" cy="22" r="5" fill="#ff5f56"/>
+  <circle cx="38" cy="22" r="5" fill="#ffbd2e"/>
+  <circle cx="54" cy="22" r="5" fill="#27c93f"/>
+  <text x="400" y="27" text-anchor="middle" font-family="ui-monospace,monospace" font-size="11" fill="#5d7080">bokyerthe@vps — zsh</text>
+
+  <g font-family="ui-monospace,monospace" font-size="14">
+    <g clip-path="url(#typeLine1)">
+      <text x="22" y="71" fill="#00e5ff" filter="url(#neon)">bokyerthe@vps</text>
+      <text x="140" y="71" fill="#5d7080">:</text>
+      <text x="148" y="71" fill="#7aa2f7">~</text>
+      <text x="158" y="71" fill="#5d7080">$</text>
+      <text x="170" y="71" fill="#e0e0e0"> whoami</text>
+    </g>
+    <g clip-path="url(#typeLine2)">
+      <text x="22" y="101" fill="#5d7080">&gt;</text>
+      <text x="35" y="101" fill="#9ee5ff">bokyerthe</text>
+    </g>
+    <g clip-path="url(#typeLine3)">
+      <text x="22" y="131" fill="#00e5ff" filter="url(#neon)">bokyerthe@vps</text>
+      <text x="140" y="131" fill="#5d7080">:</text>
+      <text x="148" y="131" fill="#7aa2f7">~</text>
+      <text x="158" y="131" fill="#5d7080">$</text>
+    </g>
+  </g>
+
+  <rect x="170" y="118" width="9" height="16" fill="#00e5ff" filter="url(#neon)">
+    <animate attributeName="opacity" values="1;0;1" dur="1.06s" repeatCount="indefinite"/>
+  </rect>
+
+  <g opacity="0.07">
+    <rect x="4" y="50" width="792" height="1" fill="#00e5ff"/>
+    <rect x="4" y="90" width="792" height="1" fill="#00e5ff"/>
+    <rect x="4" y="130" width="792" height="1" fill="#00e5ff"/>
+  </g>
+</svg>

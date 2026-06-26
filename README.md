@@ -14,7 +14,9 @@
 # 🐧 BOKYERTHE 🐧
 ### Bima Prasetio — *Infra & Network Engineer*
 
-> *"The street finds its own uses for things."* — Cyberpunk
+> *قِيلَ: لِكُلِّ عِلْمٍ ثَمَنٌ، فَمَنْ لَمْ يَدْفَعْ ثَمَنَهُ بِالْمَالِ، دَفَعَهُ بِالزَّمَانِ وَالتَّعَبِ.*
+>
+> *"Dikatakan: Setiap ilmu memiliki harga. Siapa yang tidak membayarnya dengan harta, akan membayarnya dengan waktu dan kelelahan."*
 
 </div>
 
